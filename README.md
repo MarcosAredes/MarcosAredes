@@ -13,6 +13,20 @@
 
 
 <br><br>
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/MarcosAredes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+ 
+<a href="https://www.linkedin.com/in/marcos-aredes-santos-silva-a70b14224/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/marcos__aredes/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<br><br>
 
  ## 🛠 &nbsp;Tech Stack
 
@@ -36,20 +50,6 @@
 -->
 
 <br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/MarcosAredes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
- 
-<a href="https://www.linkedin.com/in/marcos-aredes-santos-silva-a70b14224/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/marcos__aredes/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 
 
 <!--
