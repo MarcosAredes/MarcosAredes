@@ -29,8 +29,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=vision-friendly-dark" alt="MarcosAredes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAredes&layout=compact&theme=vision-friendly-dark" alt= "MarcosAredes's most languages"/>
 </p>
 -->
 
@@ -39,13 +39,11 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
+<a href="https://codepen.io/MarcosAredes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+ 
+<a href="https://www.linkedin.com/in/marcos-aredes-santos-silva-a70b14224/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
