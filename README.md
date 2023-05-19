@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/bbf645258e40b80f36a95ac800ad269f/raw/4cbcc863adccdd3cf88d7a9d08592ebcdf4c5bb7/Githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Aredes</h1>
+<h1 align="left">Hi 👋, I'm Marcos Aredes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAredes&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer  
