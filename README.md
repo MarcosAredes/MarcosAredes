@@ -1,14 +1,12 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/bbf645258e40b80f36a95ac800ad269f/raw/4cbcc863adccdd3cf88d7a9d08592ebcdf4c5bb7/Githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Aredes</h1>
+
 
 - 🔥 Junior Web Developer  
 
 - 🔭 I’m currently working: ...
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, VUE.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
