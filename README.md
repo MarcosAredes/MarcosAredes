@@ -22,6 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VUE.JS](https://img.shields.io/badge/-VUE.JS-05122A?style=flat&logo=VUE.JS)
 
 
 <br><br>
@@ -40,19 +41,16 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/MarcosAredes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
  
 <a href="https://www.linkedin.com/in/marcos-aredes-santos-silva-a70b14224/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://www.instagram.com/marcos__aredes/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
+
 
 <!--
 
