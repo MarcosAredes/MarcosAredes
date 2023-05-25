@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/bbf645258e40b80f36a95ac800ad269f/raw/4cbcc863adccdd3cf88d7a9d08592ebcdf4c5bb7/Githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/045cc915dbee5b0d7ba49787b3521547/raw/4e8c7d84ae46a1c8e6ca9bd90137475bb5b8b8a5/Githubcard2.svg"/>
 <h1 align="left">Hi 👋, I'm Marcos Aredes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAredes&color=yellow" alt="Profile views" /> </p>
 
