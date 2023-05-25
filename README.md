@@ -48,19 +48,15 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=vision-friendly-dark" alt="MarcosAredes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAredes&layout=compact&theme=vision-friendly-dark" alt= "MarcosAredes's most languages"/>
+
 </p>
 
 
 <br><br>
 
 
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
