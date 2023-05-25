@@ -43,14 +43,14 @@
 
 
 <br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=vision-friendly-dark%22%20alt=%22MarcosAredes%27s%20stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=vision-friendly-dark%22%20alt=%22MarcosAredes%27s%20stats"/>
   
   <img width="530em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAredes&layout=compact&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAredes&layout=compact&theme=vision-friendly-dark)"/>
-<!--
+
 </p>
 
 
