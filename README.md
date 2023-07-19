@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Marcos Aredes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAredes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer  
+- 🔥 Junior Developer  
 
 - 🔭 I’m currently working: ...
 
