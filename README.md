@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working: ...
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, VUE.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, VUE.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
