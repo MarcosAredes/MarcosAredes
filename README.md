@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/045cc915dbee5b0d7ba49787b3521547/raw/4e8c7d84ae46a1c8e6ca9bd90137475bb5b8b8a5/Githubcard2.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/045cc915dbee5b0d7ba49787b3521547/raw/4e8c7d84ae46a1c8e6ca9bd90137475bb5b8b8a5/Githubcard2.svg"/>-->
 <h1 align="left">Hi 👋, I'm Marcos Aredes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAredes&color=yellow" alt="Profile views" /> </p>
 
@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working: ...
 
-- ⚡ Fun fact **Oneye 😜**
 
 
 
@@ -21,11 +20,6 @@
 <a href="https://www.linkedin.com/in/marcos-aredes-santos-silva-a70b14224/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<!--
-  <a href="https://www.instagram.com/marcos__aredes/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-MarcosAredes-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
--->
 
 <br><br>
 
