@@ -10,7 +10,7 @@
 
 
 <br><br>
-## Contact
+<!--## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/MarcosAredes" target="_blank">
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<!-- ## 🛠 &nbsp;Tech Stack
+ ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
