@@ -4,7 +4,7 @@
 
 <br>
 
-- Developer/Software Engineer
+- 👨🏻‍💻 Developer/Software Engineer
 
 <br>
 
