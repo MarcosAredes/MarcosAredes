@@ -1,10 +1,12 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/045cc915dbee5b0d7ba49787b3521547/raw/4e8c7d84ae46a1c8e6ca9bd90137475bb5b8b8a5/Githubcard2.svg"/>-->
-<h1 align="left">Hi 👋, I'm Marcos Aredes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAredes&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Olá, sou Marcos Aredes</h1>
+<h3>Hello World</h3>
 
-- 🔥 Junior Developer  
+<br>
 
-- 🔭 I’m currently working: ...
+- Developer/Software Engineer
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +17,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 
 ## Contact
