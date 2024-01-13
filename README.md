@@ -8,9 +8,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=ts,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ts,github,python,vscode&perline=4)](https://skillicons.dev)
 
 
 
