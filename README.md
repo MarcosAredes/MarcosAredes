@@ -1,6 +1,4 @@
-<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAredes/045cc915dbee5b0d7ba49787b3521547/raw/4e8c7d84ae46a1c8e6ca9bd90137475bb5b8b8a5/Githubcard2.svg"/>-->
-<h1 align="left">Olá, sou Marcos Aredes</h1>
-<h3>Hello World</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&size=28&duration=3500&pause=994&color=FFD43B&background=3776AB00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+sou+o++Marcos)](https://git.io/typing-svg)
 
 <br>
 
@@ -10,6 +8,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ts,github,python,vscode&perline=4)](https://skillicons.dev)
 
+
+<!-- <h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true" />
+</picture>
+</div> -->
 
 
 
