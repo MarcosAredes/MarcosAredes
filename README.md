@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&size=28&duration=3500&pause=994&color=FFD43B&background=3776AB00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+sou+o++Marcos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&size=28&duration=3500&pause=994&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%F0%9F%91%8B+%2C+sou+o+Marcos)](https://git.io/typing-svg)
 
 <br>
 
-- 👨🏻‍💻 Developer/Software Engineer
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&pause=1000&repeat=false&random=false&width=435&lines=-+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Developer%2FSoftware+Engineer)](https://git.io/typing-svg)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ts,github,python,vscode&perline=4)](https://skillicons.dev)
