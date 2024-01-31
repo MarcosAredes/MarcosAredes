@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&pause=1000&repeat=false&random=false&width=435&lines=-+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Developer%2FSoftware+Engineer)](https://git.io/typing-svg)
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ts,github,python,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,git,eclipse,github,python,vscode,java&perline=4)](https://skillicons.dev)
 
 
 <!-- <h2 align="center" >⚡Stats⚡</h2>
