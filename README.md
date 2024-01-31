@@ -7,6 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,eclipse,github,python,vscode,java&perline=4)](https://skillicons.dev)
 
+tbm tem o BD Oracle mas não tem a imagem bonitinha 
 
 <!-- <h2 align="center" >⚡Stats⚡</h2>
 <br>
