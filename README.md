@@ -10,20 +10,25 @@
 
 
 
- <h2 align="center" >skils</h2>
+ <h2 align="center" >skills</h2>
+ 
  <div>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS" src="https://img.shields.io/badge/Css3-black?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Github" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/ORACLE-black?style=for-the-badge&logo=oracle&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
+ </div>
+
+ <div>
+<img align="center" alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="eclipse" src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white" />
-  
-  </div>
+<img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+ </div> 
+ 
 
 
 
