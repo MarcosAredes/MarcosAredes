@@ -5,25 +5,35 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grape+Nuts&pause=1000&repeat=false&random=false&width=435&lines=-+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Developer%2FSoftware+Engineer)](https://git.io/typing-svg)
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,eclipse,github,python,vscode,java&perline=4)](https://skillicons.dev)
 
-tbm tem o BD Oracle mas não tem a imagem bonitinha 
+[![Blog](https://img.shields.io/website?label=MASS&style=for-the-badge&url=https://m4ss.netlify.app/)](https://m4ss.netlify.app/)
 
-<!-- <h2 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true" />
-</picture>
-</div> -->
+
+
+ <h2 align="center" >skils</h2>
+ <div>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS" src="https://img.shields.io/badge/Css3-black?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="Java" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="Github" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="Oracle" src="https://img.shields.io/badge/ORACLE-black?style=for-the-badge&logo=oracle&logoColor=white" />
+<img align="center" alt="Java" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  </div>
+
+
+
+
+ <h2 align="center" >⚡Stats⚡</h2>
+
+</div> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAredes&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAredes&size_weight=0.5&count_weight=0.5)
 
 
 
