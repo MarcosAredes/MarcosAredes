@@ -25,7 +25,6 @@
  <div>
 <img align="center" alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" alt="eclipse" src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  </div> 
  
