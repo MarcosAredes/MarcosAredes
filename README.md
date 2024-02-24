@@ -16,7 +16,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS" src="https://img.shields.io/badge/Css3-black?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="center" alt="Php" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="Php" src="https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/ORACLE-black?style=for-the-badge&logo=oracle&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
