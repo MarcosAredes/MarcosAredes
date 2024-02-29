@@ -16,16 +16,20 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS" src="https://img.shields.io/badge/Css3-black?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="center" alt="Php" src="https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/ORACLE-black?style=for-the-badge&logo=oracle&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="flask" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white" />
+
  </div>
 
  <div>
 <img align="center" alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=white" />
+<img align="center" alt="linux" src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+
+ 
  </div> 
  
 
